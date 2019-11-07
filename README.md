@@ -3,4 +3,4 @@ python Turtle draw binary tree
 
  - [ ] improve to draw custom binary tree
  
-![](img/example.png)
+![image](https://github.com/JellyZhang/Turtle/raw/master/example.png)
